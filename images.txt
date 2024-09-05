@@ -2,3 +2,4 @@ xuxueli/xxl-job-admin:2.4.0
 docker.elastic.co/elasticsearch/elasticsearch:8.1.0
 jertel/elastalert2:2.19.0
 openjdk:17-alpine
+openjdk:8-alpine
